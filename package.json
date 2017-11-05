@@ -9,7 +9,7 @@
     "build:dev": "webpack --config ./webpack.dev.config.js --progress --colors",
     "build": "webpack -p --config ./webpack.prod.config.js --progress --colors"
   },
-  "author": "srinivasan",
+  "author": "vooit",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "6.24.1",
